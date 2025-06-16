@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+networkx
+gym
+stable-baselines3
+streamlit
+fastapi
+uvicorn
+openai
