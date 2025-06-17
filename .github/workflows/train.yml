@@ -18,4 +18,4 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run RL Training
-        run: python core/train_rl_agent.py
+        run: python IBS_Reticulotype_Project/core/train_rl_agent.py
