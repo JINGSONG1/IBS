@@ -9,3 +9,8 @@ streamlit
 fastapi
 uvicorn
 openai
+
+transformers
+requests
+neo4j
+fhirclient
